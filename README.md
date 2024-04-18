@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+A new Flutter project Weathering App State Management Bloc and use Api Key OpenWeatheringMap .
 
 ## Getting Started
 
