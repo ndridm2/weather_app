@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 images
 
-<img width="300" height="300" alt="flutter_weathering_app" src="https://github.com/ndridm2/weather_app/assets/64353589/02c51198-8e71-4ddf-a6cf-c8aebd8f59be">
+<img width="800" height="600" alt="flutter_weathering_app" src="https://github.com/ndridm2/weather_app/assets/64353589/02c51198-8e71-4ddf-a6cf-c8aebd8f59be">
