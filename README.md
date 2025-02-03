@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 images
 
-<img width="350" alt="weather app" src="https://github.com/ndridm2/weather_app/assets/64353589/58b20053-42d0-435d-9029-87f76ffe4c0e">
+<img width="550" alt="weather app" src="https://github.com/ndridm2/weather_app/assets/64353589/58b20053-42d0-435d-9029-87f76ffe4c0e">
